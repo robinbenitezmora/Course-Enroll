@@ -1,6 +1,6 @@
 package studentsapp;
 
-class Overload {
+public class Overload {
  private String name;
 
  public Overload(String n) {
